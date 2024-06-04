@@ -24,13 +24,13 @@
 
   ![linux](https://img.shields.io/badge/-linux-0D1117?logo=linux&logoColor=white)&nbsp;
   ![ubuntu](https://img.shields.io/badge/-ubuntu-0D1117?logo=ubuntu)&nbsp;
-  ![goole cloud](https://img.shields.io/badge/-googlecloud-0D1117?logo=googlecloud)&nbsp;
-  ![amazon web services](https://img.shields.io/badge/-aws-0D1117?logo=amazonaws&logoSize=auto)&nbsp;
-  ![firebase](https://img.shields.io/badge/-firebase-0D1117?logo=firebase&logoSize=auto)&nbsp;
+  ![Goole cloud](https://img.shields.io/badge/-googlecloud-0D1117?logo=googlecloud)&nbsp;
+  ![Amazon web services](https://img.shields.io/badge/-aws-0D1117?logo=amazonaws&logoSize=auto)&nbsp;
+  ![Firebase](https://img.shields.io/badge/-firebase-0D1117?logo=firebase&logoSize=auto)&nbsp;
   ![bash](https://img.shields.io/badge/-bash-0D1117?logo=gnubash&logoSize=auto)&nbsp;
-  ![kubernetes](https://img.shields.io/badge/-kubernetes-0D1117?logo=kubernetes&logoSize=auto)&nbsp;
+  ![Kubernetes](https://img.shields.io/badge/-kubernetes-0D1117?logo=kubernetes&logoSize=auto)&nbsp;
   ![nginx](https://img.shields.io/badge/-nginx-0D1117?logo=nginx&logoSize=auto&logoColor=green)&nbsp;
-  ![jestjs](https://img.shields.io/badge/-jest-0D1117?logo=jest&logoSize=auto)&nbsp;
+  ![Jestjs](https://img.shields.io/badge/-jest-0D1117?logo=jest&logoSize=auto)&nbsp;
   ![npm](https://img.shields.io/badge/-npm-0D1117?logo=npm)&nbsp;
   ![cpp](https://img.shields.io/badge/-C++-0D1117?logo=cplusplus)&nbsp;
   ![go](https://img.shields.io/badge/-go-0D1117?logo=go)&nbsp;
@@ -39,11 +39,12 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
-  ![fastify](https://img.shields.io/badge/-fastify-0D1117?logo=fastify)&nbsp;
-  ![expressjs](https://img.shields.io/badge/-expressjs-0D1117?logo=express)&nbsp;
+  ![Fastify](https://img.shields.io/badge/-fastify-0D1117?logo=fastify)&nbsp;
+  ![Expressjs](https://img.shields.io/badge/-expressjs-0D1117?logo=express)&nbsp;
   ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
-  ![redux](https://img.shields.io/badge/-reduxjs-0D1117?logo=redux)&nbsp;
-  ![nestjs](https://img.shields.io/badge/-nestjs-0D1117?logo=nestjs)&nbsp;
+  ![Redux](https://img.shields.io/badge/-reduxjs-0D1117?logo=redux)&nbsp;
+  ![Nestjs](https://img.shields.io/badge/-nestjs-0D1117?logo=nestjs)&nbsp;
+  ![Nextjs](https://img.shields.io/badge/-next.js-0D1117?logo=next.js)&nbsp;
   ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
   ![Django](https://img.shields.io/badge/-Django-0D1117?style=flat&logo=django)&nbsp;
   ![Lua](https://img.shields.io/badge/-Lua-0D1117?style=flat&logo=Lua)&nbsp;
