@@ -29,6 +29,7 @@
   ![Firebase](https://img.shields.io/badge/-firebase-0D1117?logo=firebase&logoSize=auto)&nbsp;
   ![bash](https://img.shields.io/badge/-bash-0D1117?logo=gnubash&logoSize=auto)&nbsp;
   ![Kubernetes](https://img.shields.io/badge/-kubernetes-0D1117?logo=kubernetes&logoSize=auto)&nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
   ![nginx](https://img.shields.io/badge/-nginx-0D1117?logo=nginx&logoSize=auto&logoColor=green)&nbsp;
   ![Jestjs](https://img.shields.io/badge/-jest-0D1117?logo=jest&logoSize=auto)&nbsp;
   ![npm](https://img.shields.io/badge/-npm-0D1117?logo=npm)&nbsp;
@@ -39,12 +40,12 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
-  ![Fastify](https://img.shields.io/badge/-fastify-0D1117?logo=fastify)&nbsp;
+  ![Fastify](https://img.shields.io/badge/-Fastify-0D1117?logo=fastify)&nbsp;
   ![Expressjs](https://img.shields.io/badge/-expressjs-0D1117?logo=express)&nbsp;
-  ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
-  ![Redux](https://img.shields.io/badge/-reduxjs-0D1117?logo=redux)&nbsp;
-  ![Nestjs](https://img.shields.io/badge/-nestjs-0D1117?logo=nestjs)&nbsp;
-  ![Nextjs](https://img.shields.io/badge/-next.js-0D1117?logo=next.js)&nbsp;
+  ![React](https://img.shields.io/badge/-Reactjs-0D1117?style=flat&logo=react)&nbsp;
+  ![Redux](https://img.shields.io/badge/-Reduxjs-0D1117?logo=redux)&nbsp;
+  ![Nestjs](https://img.shields.io/badge/-Nestjs-0D1117?logo=nestjs)&nbsp;
+  ![Nextjs](https://img.shields.io/badge/-Next.js-0D1117?logo=next.js)&nbsp;
   ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
   ![Django](https://img.shields.io/badge/-Django-0D1117?style=flat&logo=django)&nbsp;
   ![Lua](https://img.shields.io/badge/-Lua-0D1117?style=flat&logo=Lua)&nbsp;
@@ -52,9 +53,7 @@
   ![mongodb](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb)&nbsp;
   ![mysql](https://img.shields.io/badge/-mysql-0D1117?style=flat&logo=mysql)&nbsp;
   ![redis](https://img.shields.io/badge/-redis-0D1117?style=flat&logo=redis)&nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)
   ![vite](https://img.shields.io/badge/-vite-0D1117?style=flat&logo=vite&logoColor=yellow)
