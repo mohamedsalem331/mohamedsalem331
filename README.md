@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Salem</h1>
 
-<h3 align="center">Software Developer living in Cairo, Egypt. I love problem solving, contributing to open source, building stuff, learning new technologies and playing soul games.</h3>
+<h3 align="center">Software Developer living in Cairo, Egypt. I love problem solving, contributing to open source, building stuff and learning new technologies</h3>
 
 <div align="center">
   <a   href="https://linkedin.com/in/www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
