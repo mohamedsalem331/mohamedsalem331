@@ -11,8 +11,7 @@
 <hr/>
 
 
-✔ I’m currently learning **Go**<br>
-✔ I’m also learning Low-level programming with **Rust** & **Zig**<br>
+✔ I’m currently learning **Java - Spring Boot**<br>
 ✔ I love **Open - Source contribution**<br>
 ✔ I regularly practice [leetcode](https://leetcode.com/u/mohamedsalem3331/) problems <br>
 ✔ Ask me about anything, I am happy to help!😉<br>
